@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WajahatAliBasharat
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning and java.
+- 🌱 I’m currently learning machine learning,pyhton and c++.
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...reach me through my email
 
