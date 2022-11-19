@@ -22,6 +22,8 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - Matplotlib
 - Seaborn
 - Tableau
+- HTML
+- CSS
 ## Certification
 
 - [Machine Learning Introduction for Everyone](https://www.coursera.org/account/accomplishments/certificate/EFSG9PMGBZ82)
