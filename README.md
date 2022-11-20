@@ -32,6 +32,12 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - [Linux Fundamentals](https://www.coursera.org/account/accomplishments/certificate/W23LAKG96W7K)
 - [Command Line Basics in Linux](https://www.coursera.org/account/accomplishments/certificate/S6W2JUFMSJFB)
 
+
+🔭 I’m currently working on - Data Science & Machine Learning.
+
+🌱 I’m currently learning - Deep learning, NLP and Computer Vision .
+
+😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
 ## Reach me on
 
 - My profile in [Twitter](https://twitter.com/WajahatAli0981)
