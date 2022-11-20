@@ -32,7 +32,7 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - [Linux Fundamentals](https://www.coursera.org/account/accomplishments/certificate/W23LAKG96W7K)
 - [Command Line Basics in Linux](https://www.coursera.org/account/accomplishments/certificate/S6W2JUFMSJFB)
 
-## Contact Me
+## Reach me on
 
 - [@Twitter](https://twitter.com/WajahatAli0981)
 - [@Linkedin](https://www.linkedin.com/in/wajahat-ali-basharat/)
