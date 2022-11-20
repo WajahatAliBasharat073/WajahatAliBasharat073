@@ -34,6 +34,6 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 
 ## Reach me on
 
-- [Twitter](https://twitter.com/WajahatAli0981)
-- [Linkedin](https://www.linkedin.com/in/wajahat-ali-basharat/)
-- [Github](https://github.com/WajahatAliBasharat073)
+- My profile in [Twitter](https://twitter.com/WajahatAli0981)
+- My profile in [Linkedin](https://www.linkedin.com/in/wajahat-ali-basharat/)
+- My profile in [Github](https://github.com/WajahatAliBasharat073)
