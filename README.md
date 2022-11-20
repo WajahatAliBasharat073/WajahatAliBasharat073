@@ -1,5 +1,5 @@
 ## 🚀 About Me
-### Machine Learning Enthusiast | Deep Learning Enthusiast | NLP Enthusiast | CV Enthusiast | Front-end Web Developer | Python Developer
+### AI Enthusiast | Machine Learning Enthusiast | Deep Learning Enthusiast | NLP Enthusiast | CV Enthusiast | Front-end Web Developer | Python Developer
 I am 20 years old ,currently in 5th smester(`Gradute 2024`),pursuing career in `Artificial Intelligence` from Shifa Tameer e Millet University ,Islamabad,Pakistan.Born and brought up in `Bagh AJK` .
 
 My idea behind taking up `Artificial Intelligence` is my love for programming and the fact that give the knowledge.AI save time and minimize the human efforts
