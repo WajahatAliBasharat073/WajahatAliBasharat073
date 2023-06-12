@@ -22,6 +22,20 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - Matplotlib
 - Seaborn
 - Tableau
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- Deep Learning
+- Neural Networks
+- Text Classification
+- Convolutional Neural Networks (CNN)
+- Transfer Learning
+- Model Evaluation and Validation
+- Python
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Keras
+- Data Preprocessing and Feature Engineering
 - HTML
 - CSS
 ## Certification
