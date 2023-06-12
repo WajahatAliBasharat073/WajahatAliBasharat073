@@ -30,14 +30,11 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - Convolutional Neural Networks (CNN)
 - Transfer Learning
 - Model Evaluation and Validation
-- Python
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Keras
 - Data Preprocessing and Feature Engineering
 - HTML
 - CSS
+- MERN Stack
+- UX/UI Designer
 ## Certification
 
 - [Machine Learning Introduction for Everyone](https://www.coursera.org/account/accomplishments/certificate/EFSG9PMGBZ82)
