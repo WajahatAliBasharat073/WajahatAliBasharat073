@@ -1,6 +1,6 @@
 ## 🚀 About Me
 ### AI Enthusiast | Machine Learning Enthusiast | Deep Learning Enthusiast | NLP Enthusiast | CV Enthusiast | Front-end Web Developer | Python Programmer
-I am 21 years old, currently in the 6th semester (`Graduate 2024`), pursuing a career in `Artificial Intelligence` from Shifa Tameer e Millet University, Islamabad, Pakistan. Born and brought up in `Bagh AJK`.
+I am 21 years old, currently in the 7th semester (`Graduate 2024`), pursuing a career in `Artificial Intelligence` from Shifa Tameer e Millet University, Islamabad, Pakistan. Born and brought up in `Bagh AJK`.
 
 My idea behind taking up `Artificial Intelligence is my love for programming and the fact that gives the knowledge.AI save time and minimizes the human efforts
 
