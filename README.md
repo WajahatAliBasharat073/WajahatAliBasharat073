@@ -1,10 +1,12 @@
+
 ## 🚀 About Me
 ### AI Enthusiast | Machine Learning Enthusiast | Deep Learning Enthusiast | NLP Enthusiast | CV Enthusiast | Front-end Web Developer | Python Programmer
-I am 21 years old, currently in the 7th semester (`Graduate 2024`), pursuing a career in `Artificial Intelligence` from Shifa Tameer e Millet University, Islamabad, Pakistan. Born and brought up in `Bagh AJK`.
 
-My idea behind taking up `Artificial Intelligence is my love for programming and the fact that gives the knowledge.AI save time and minimizes the human efforts
+I'm a computer science student and a machine learning enthusiast. I love to explore and apply machine learning to solve real-world problems.
 
-I have a keen interest in `Artificial Intelligence  Machine Learning Deep Learning` `NLP` and `Computer Vision`.I am presently learning and working on the skills required to expertise in the same.
+My idea behind taking up  is my love for programming and the fact that gives the knowledge. AI save time and minimizes the human efforts
+
+I have a keen interest in `Artificial Intelligence, Machine Learning, Deep Learning` and `Computer Vision`.I am presently learning and working on the skills required to expertise in the same.
 
 My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 
@@ -12,29 +14,10 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 
 
 ## 🛠 Skills
-- python
-- Numpy
-- Pandas
-- Scikit-learn
-- Keras
-- Opencv
-- Tenserflow
-- Matplotlib
-- Seaborn
-- Tableau
-- Natural Language Processing (NLP)
-- Machine Learning (ML)
-- Deep Learning
-- Neural Networks
-- Text Classification
-- Convolutional Neural Networks (CNN)
-- Transfer Learning
-- Model Evaluation and Validation
-- Data Preprocessing and Feature Engineering
-- HTML
-- CSS
-- MERN Stack
-- UX/UI Designer
+- **Programming Languages**: Python | C++ | JavaScript(basics) 
+- **Framework, Libraries & Platforms**: TensorFlow | NumPy | Pandas | Matplotlib | Sklearn | Plotly| NLTK | OpenCV | Flask |   Streamlit | XGBoost | Azure | AWS
+- **Concepts & Technologies**: Problem Solving | Data Structure | Algorithms | Machine Learning | Natural language processing (NLP) | Git | Linux | SQL | MySQL | MongoDB
+
 ## Certification
 
 - [Machine Learning Introduction for Everyone](https://www.coursera.org/account/accomplishments/certificate/EFSG9PMGBZ82)
@@ -42,7 +25,9 @@ My `hobbies` include playing `volleyball`, `reading books` and `coding`.
 - [Build & Deploy AI Messenger Chatbot using IBM Watson](https://www.coursera.org/account/accomplishments/certificate/Y99HBEN7GZ5H)
 - [Linux Fundamentals](https://www.coursera.org/account/accomplishments/certificate/W23LAKG96W7K)
 - [Command Line Basics in Linux](https://www.coursera.org/account/accomplishments/certificate/S6W2JUFMSJFB)
+## 😄 Fun fact ...
 
+- I won the third rank in the National-level ZAB AI Cup 2023, a prestigious and competitive machine learning event
 
 🔭 I’m currently working on - Data Science & Machine Learning.
 
